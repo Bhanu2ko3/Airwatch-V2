@@ -1,2 +1,4 @@
 # Ignore MeshCentral data files
 meshcentral-data/
+
+meshcentral-backups/
